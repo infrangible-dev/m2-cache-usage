@@ -1,11 +1,19 @@
 {
     "name": "infrangible/m2-cache-usage",
-    "description": "Infrangible Magento 2 Cache Usage",
+    "description": "Shows how well the full page cache and block cache work: records cache hits and render times per page and block, with admin reports and on-page markers.",
     "type": "magento2-module",
     "version": "3.0.0",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Performance",
+        "Developer tools",
+        "Hyvä",
+        "full page cache hit rate report",
+        "block cache analysis",
+        "cache performance monitoring"
     ],
     "homepage": "https://www.infrangible.dev/modules/cache-usage",
     "authors": [
